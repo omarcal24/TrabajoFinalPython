@@ -1,0 +1,10 @@
+numpy
+pandas
+matplotlib
+sklearn
+seaborn
+imblearn
+streamlit==1.9.0
+opencv-python-headless
+xgboost
+
